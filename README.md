@@ -1,10 +1,10 @@
 <p align="center">
   
-![Sorting Visualizer](https://user-images.githubusercontent.com/40190772/83947174-c3254280-a815-11ea-960c-65d1e2576bce.png)
+![Visualizer](https://user-images.githubusercontent.com/40190772/83947174-c3254280-a815-11ea-960c-65d1e2576bce.png)
 
 
 </p>
-<h3 align="center">Sorting.Visualizer</h3>
+<h3 align="center">Visualizer.Algo</h3>
 <div align="center">
 
 [![GitHub contributors](https://img.shields.io/github/contributors/AbdallahHemdan/Sorting.Visualizer)](https://github.com/AbdallahHemdan/Sorting.Visualizer/contributors)
@@ -18,7 +18,7 @@
 ## 📊 Sorting.Visulizer 🕹[Try It Now](https://hamdolavisualizer.netlify.com/?fbclid=IwAR0YJMegmtW4CKDtiUM256qrCGwxbQqUDq0OJK6qjAqGiYdaS-oPdq3pFX8)
 --------------------
 
-**_Sorting.Visualizer is a web app for visualizing a bunch of different sorting algorithms Like_**
+**_Visualing_algorithms is a web app for visualizing a bunch of different sorting algorithms Like_**
 1. Selection Sort.
 2. Bubble Sort.
 3. Insertion Sort.
