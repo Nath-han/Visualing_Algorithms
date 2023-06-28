@@ -6,8 +6,7 @@
 </p>
 <h3 align="center">Visualizer.Algo</h3>
 <div align="center">
-
-[![GitHub contributors](https://img.shields.io/github/contributors/AbdallahHemdan/Sorting.Visualizer)](https://github.com/AbdallahHemdan/Sorting.Visualizer/contributors)
+(https://github.com/AbdallahHemdan/Sorting.Visualizer/contributors)
 [![GitHub issues](https://img.shields.io/github/issues/AbdallahHemdan/Sorting.Visualizer)]
 [![GitHub license](https://img.shields.io/github/license/AbdallahHemdan/Sorting.Visualizer)](https://github.com/AbdallahHemdan/Sorting.Visualizer/blob/master/LICENSE)
 
